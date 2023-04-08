@@ -1,0 +1,30 @@
+body{
+    background-color:whitesmoke;
+    color: black;
+}
+header{
+    text-decoration: none;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    height: 2px;
+    background-color: black;
+}
+.s{
+    text-decoration: none;
+    padding-left: 20px;
+}
+.s1{
+    text-decoration: none;
+    padding-left: 50px;
+}
+
+.label{
+    margin-left: 0;
+    display: inline-block;
+    width: 700px;
+    padding-inline-start: 20px;
+}
